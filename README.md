@@ -107,4 +107,4 @@ Make change to server.js file.
          });
         
 Now you will be able to browse: 'localhost:3000/nodemon'.
-
+`$ sudo npm install vsoagent-installer -g`
