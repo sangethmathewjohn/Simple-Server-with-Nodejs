@@ -106,5 +106,4 @@ Make change to server.js file.
              console.log("Server on port 3000");
          });
         
-Now you will be able to browse: 'localhost:3000/nodemon'.
-`$ sudo npm install vsoagent-installer -g`
+Now you will be able to browse: `localhost:3000/nodemon`.
