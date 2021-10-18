@@ -1,7 +1,5 @@
 # Simple-Server-with-Nodejs
 
-#####################################
-
 Make a directory.
 
     mkdir node-server
@@ -19,9 +17,8 @@ Install expressjs.
 
     npm install expressjs
     
-###########################################
 
-##### Server.js
+#### Server.js
 
          const express = require("express");
          const app = express();
