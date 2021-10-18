@@ -2,19 +2,19 @@
 
 Make a directory 
 
-  mkdir node-server
-  cd node-server
+    mkdir node-server
+    cd node-server
 
 Create a nodejs file for server
 
-  touch server.js
+    touch server.js
  
 Create package.json
   
-  npm init
+     npm init
 
 Install expressjs
 
-  npm install expressjs
+    npm install expressjs
 
 
