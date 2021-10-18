@@ -61,7 +61,7 @@ You should see Hello WORLD on the browser.
          });
 
 
-Everytime you make a change in the script you always need to rerun the server.
+Everytime you make a change in the script you always need to restart the server(`ctrl+c`and`nodejs server.js`).
 
 To view the pages:
 
@@ -81,7 +81,7 @@ Now run the server using nodemon.
 
         nodemon server.js
         
-Make change to server.js file.
+Make change to `server.js` file.
 
          const express = require("express");
          const app = express();
